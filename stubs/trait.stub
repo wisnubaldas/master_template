@@ -1,0 +1,10 @@
+<?php
+namespace $NAMESPACE$;
+
+trait $CLASS_NAME$Trait {
+    
+    public function index() {
+        // make free trait jing
+
+    }
+}
