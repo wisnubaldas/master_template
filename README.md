@@ -1,8 +1,8 @@
 # Master Template For IOT Project
 
 ### Credit
-[*] Live Wire
-[*] Valex Admin Template
+- [x] Live Wire
+- [x] Valex Admin Template
 
 ### Command Available
 - create traits ```bash php artisan make:trait NamaTraitsNya```
