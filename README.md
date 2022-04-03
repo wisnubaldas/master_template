@@ -5,7 +5,7 @@
 - [x] Valex Admin Template
 
 ### Command Available
-- create traits ```bash php artisan make:trait NamaTraitsNya```
+- create traits ``` php artisan make:trait NamaTraitsNya```
 
 
 ### Depedensi Available
